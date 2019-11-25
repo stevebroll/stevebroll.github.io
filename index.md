@@ -10,7 +10,7 @@ subtitle: Undergraduate in Statistics | Texas A&M University
   </div>
 <div class="row">
   <div class="col-md-6" markdown="1">
-  <strong>Email:</strong> <a href="mailto:stevebroll@tamu.edu">stevebroll@tamu.edu</a>
+  <strong>Email:</strong> <a href="mailto:stevebroll@tamu.edu">stevebroll@tamu.edu</a> <br>
   <a href="/Resources/BrollCV.pdf">CV
   </div>
 </div>
