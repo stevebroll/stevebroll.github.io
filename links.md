@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Helpful Links and R Guides
+title: Helpful Links
 ---
 
 ## If you're interested in Stats, Data Science, and Programming
@@ -22,16 +22,9 @@ Extensive introduction to R.
 #### [R Style Guide](http://adv-r.had.co.nz/Style.html) <br>
 Guide to proper conventions for coding in R by Hadley Wickham, the chief scientist of RStudio.
 
-#### My R guides
+#### [My R Guides](https://stevebroll.github.io/guides/)
 Individual pdf guides covering R functions frequently used in introductory statistics courses:  
-  1. [Installation guide](/guides/Intro.pdf)
-  2. [Basic operators and data types](/guides/Basics.pdf)
-  3. [Vectors](/guides/Vectors.pdf)
-  4. [Dataframes](/guides/Dataframes.pdf)
-  5. [Plotting](/guides/Plotting.pdf)
-  6. [Regression](/guides/Regression.pdf)
-  7. [Distributions](/guides/Distributions.pdf)
-  8. [Inference](/guides/Inference.pdf)
+
 
 ### Learning Git and GitHub
 #### [Git with RStudio](http://happygitwithr.com/big-picture.html) <br>
@@ -39,7 +32,6 @@ Introduction to Git with a beginner's guide to connecting to GitHub via RStudio 
 
 #### [Git from Command Line](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) <br>
 Guide to getting started with Github using command-line tools in Windows, Mac, and Linux.
-<br> <br/>
 
 ## If you're a Texas A&M student
 
