@@ -1,9 +1,10 @@
 ---
 layout: page
-title: R Guides
+title: My R Guides
 ---
 
 ## cRamp (R Bootcamp) Notes
+Individual pdf guides covering R functions frequently used in introductory statistics courses:
   1. [Installation guide](/guides/Intro.pdf)
   2. [Basic operators and data types](/guides/Basics.pdf)
   3. [Vectors](/guides/Vectors.pdf)
