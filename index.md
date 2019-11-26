@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Steve Broll
-subtitle: Undergraduate in Statistics | Texas A&M University
+subtitle: Undergrad in Statistics | Texas A&M University
 ---
 
 <div class="row">
@@ -11,6 +11,6 @@ subtitle: Undergraduate in Statistics | Texas A&M University
 <div class="row">
   <div class="col-md-6" markdown="1">
   <strong>Email:</strong> <a href="mailto:stevebroll@tamu.edu">stevebroll@tamu.edu</a> <br>
-  <a href="/Resources/BrollCV.pdf">CV
+    <strong>CV:</strong><a href="/Resources/BrollCV.pdf">Click Here
   </div>
 </div>
