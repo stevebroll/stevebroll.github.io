@@ -24,14 +24,14 @@ Guide to proper conventions for coding in R by Hadley Wickham, the chief scienti
 
 #### My R guides
 Individual pdf guides covering R functions frequently used in introductory statistics courses:  
-  1. [Installation guide]()
-  2. [Basic operators and data types]()
-  3. [Vectors]()
-  4. [Dataframes]()
-  5. [Plotting]()
-  6. [Regression]()
-  7. [Distributions]()
-  8. [Inference]()
+  1. [Installation guide](/guides/Intro.pdf)
+  2. [Basic operators and data types](/guides/Basics.pdf)
+  3. [Vectors](/guides/Vectors.pdf)
+  4. [Dataframes](/guides/Dataframes.pdf)
+  5. [Plotting](/guides/Plotting.pdf)
+  6. [Regression](/guides/Regression.pdf)
+  7. [Distributions](/guides/Distributions.pdf)
+  8. [Inference](/guides/Inference.pdf)
 
 #### [My R notes]
 
