@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Steve Broll
-subtitle: Statistics Undergrad  |  Texas A&M University
+subtitle: Statistics Undergrad at Texas A&M University
 ---
 
 <div class="row">
