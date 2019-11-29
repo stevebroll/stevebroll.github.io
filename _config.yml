@@ -21,7 +21,7 @@ description: Homepage
 # List of links in the navigation bar
 navbar-links:
   Courses: "courses"
-  Research: "research"
+#  Research: "research"
   Links: "links"
   R Guides: "guides"
 #  Author's home: "http://deanattali.com"
