@@ -6,7 +6,8 @@ subtitle: Incoming Statistics PhD Student at Cornell University
 
 <div class="row">
   <div class="col-md-4" markdown="1">
-          <img src="img/headshot.jpg" class="img-responsive" alt="Steve Broll"/></a>
+  <img src="/img/headshot.jpeg" class="responsive">
+
   </div>
 <div class="row">
   <div class="col-md-6" markdown="1">
