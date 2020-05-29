@@ -1,12 +1,12 @@
 ---
+layout: page
 title: "Steve Broll"
 subtitle: Incoming Statistics PhD Student at Cornell University
-layout: page
 ---
 
 <div class="row">
-  <div class="col-md-4" markdown="1"><a class="thumb" href="#">
-       <img src="img/headshot.jpg" class="responsive"/></a>
+  <div class="col-md-4" markdown="1"><a class="thumb">
+       <img src="img/headshot.jpg" class="center-block"/></a>
   </div>
 <div class="row">
   <div class="col-md-6" markdown="1">
@@ -18,4 +18,5 @@ layout: page
   </div>
 </div>
 
-
+I am an incoming Statistics PhD Student at Cornell University. I finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me to write an R package [https://github.com/irinagain/iglu](https://github.com/irinagain/iglu) that handles metric calculations and visualizations for data from Continuous Glucose Monitors.
+<br/> <br/> 
