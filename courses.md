@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Completed Coursework
+title: Coursework
 ---
 #### Texas A&M University 2016-2020
 Note: 6xx are Graduate Courses, and 489/689 are Special Topics Courses.
