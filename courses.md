@@ -30,7 +30,7 @@ MATH 447 | Principles of Analysis II
 MATH 615 | Intro to Classical Analysis (GR)  
 MATH 689 | Deep Learning: Theory and Applications (GR)  
 <br>
-CSCE 110 | Programming I (Python)  
+CSCE 110 | Programming I
 CSCE 206 | Structured Programming in C  
 
 
