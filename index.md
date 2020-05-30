@@ -18,5 +18,5 @@ subtitle: Incoming Statistics PhD Student at Cornell University
   </div>
 </div>
 
-I am an incoming Statistics PhD Student at Cornell University, having finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me to write an R package 'iglu' that handles metric calculations and visualizations for data from Continuous Glucose Monitors.   <br> [https://github.com/irinagain/iglu](https://github.com/irinagain/iglu)
+I am an incoming Statistics PhD Student at Cornell University, having finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me to write an R package 'iglu' that handles metric calculations and visualizations for data from Continuous Glucose Monitors.   <br>  [https://github.com/irinagain/iglu](https://github.com/irinagain/iglu)   
 <br/> <br/> 
