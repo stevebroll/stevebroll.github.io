@@ -6,7 +6,7 @@ subtitle: Incoming Statistics PhD Student at Cornell University
 
 <div class="row">
   <div class="col-md-4" markdown="1"><a class="thumb">
-       <img src="img/headshot.jpg" class="center-block"/></a>
+  <img src="img/headshot.jpg" class="center-block"/></a>
   </div>
 <div class="row">
   <div class="col-md-6" markdown="1">
@@ -18,5 +18,5 @@ subtitle: Incoming Statistics PhD Student at Cornell University
   </div>
 </div>
 
-I am an incoming Statistics PhD Student at Cornell University. I finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me to write an R package [https://github.com/irinagain/iglu](https://github.com/irinagain/iglu) that handles metric calculations and visualizations for data from Continuous Glucose Monitors.
+I am an incoming Statistics PhD Student at Cornell University, having finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me to write an R package 'iglu' that handles metric calculations and visualizations for data from Continuous Glucose Monitors. [https://github.com/irinagain/iglu](https://github.com/irinagain/iglu)
 <br/> <br/> 
