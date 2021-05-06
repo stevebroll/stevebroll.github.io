@@ -20,9 +20,10 @@ description: Homepage
 
 # List of links in the navigation bar
 navbar-links:
-  Courses: "courses"
 #  Research: "research"
+  Publications: "publications"
   Notes and Slides: "notes"
+  Courses: "courses"
   Links: "links"
 #  R Guides: "guides"
 #  Author's home: "http://deanattali.com"
