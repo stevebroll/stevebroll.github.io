@@ -19,5 +19,5 @@ subtitle: First Year PhD Student at Cornell University
 
 I am an First-Year Statistics PhD Student at Cornell University, working with Dr. Martin Wells on high-dimensional data and extreme value theory. <br>
 
-I finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me to write an R package 'iglu' that handles metric calculations and visualizations for data from Continuous Glucose Monitors (CGMs).  <a href="https://github.com/irinagain/iglu">https://github.com/irinagain/iglu</a>  <a href="https://cran.r-project.org/web/packages/iglu/index.html">https://cran.r-project.org/web/packages/iglu/index.html</a> 
+I finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me to write an R package 'iglu' that handles metric calculations and visualizations for data from Continuous Glucose Monitors (CGMs).  [Github](https://github.com/irinagain/iglu)  [CRAN](https://cran.r-project.org/web/packages/iglu/index.html)
 <br/> <br/> 
