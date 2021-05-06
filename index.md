@@ -17,7 +17,7 @@ subtitle: First Year PhD Student at Cornell University
   </div>
 </div>
 
-I am an First-Year Statistics PhD Student at Cornell University, working with Dr. Martin Wells on high-dimensional data and extreme value theory. <br>
+I am a First-Year Statistics PhD Student at Cornell University, working with Dr. Martin Wells on high-dimensional data and extreme value theory. <br> <br>
 
 I finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me write an R package 'iglu' that handles metric calculations and visualizations for data from Continuous Glucose Monitors (CGMs). 
 <br/> <br/> 
