@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Various Lectures/Presentations
+title: Various Notes
 ---
 
 [Extreme Value Distributions, Random Angles, Correlations, and the Beta Distribution](/img/EVD_Angles_noproofs.pdf)
