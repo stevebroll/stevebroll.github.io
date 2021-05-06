@@ -22,8 +22,9 @@ description: Homepage
 navbar-links:
   Courses: "courses"
 #  Research: "research"
+  Notes and Slides: "notes"
   Links: "links"
-  R Guides: "guides"
+#  R Guides: "guides"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
