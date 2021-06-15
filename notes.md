@@ -5,7 +5,7 @@ title:  Steve's Notes
 
 
 ## Extreme Value Distributions, Random Angles, Correlations, and the Beta Distribution
-[Slides](/img/EVD_Angles_noproofs.pdf)
+[Presentation Slides](/img/EVD_Angles_noproofs.pdf)
 
 <br>
 
