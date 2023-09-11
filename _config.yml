@@ -22,11 +22,11 @@ author: Steve Broll
 navbar-links:
 #  Research: "research"
   Publications: "publications"
-  Materials: "notes"
-  Courses: "courses"
 #  Links: "links"
   Presentations: "presentations"
-
+  Materials: "notes"
+  Courses: "courses"
+ 
 ################
 # --- Logo --- #
 ################
