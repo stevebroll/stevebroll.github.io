@@ -6,7 +6,7 @@ subtitle: Third Year PhD Student at Cornell University
 
 <div class="row">
   <div class="col-md-4" markdown="1"><a class="thumb">
-  <img src="img/headshot.jpg" class="center-block"/></a>
+  <img src="assets/img/headshot.jpg" class="center-block"/></a>
   </div>
 <div class="row">
   <div class="col-md-6" markdown="1">
