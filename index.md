@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Steve Broll"
-subtitle: Third Year PhD Student at Cornell University
+subtitle: PhD Candidate at Cornell University
 ---
 
 <div class="row">
@@ -17,7 +17,7 @@ subtitle: Third Year PhD Student at Cornell University
   </div>
 </div>
 
-I am a PhD Candidate at Cornell University working with Dr. Martin Wells, Dr. Sumanta Basu, and Dr. Myung-Hee Lee on high-dimensional batch effect correction and feature selection for longitudinal -omics data. <br> <br>
+I am a PhD Candidate in my fourth year at Cornell University. I work with Dr. Martin Wells, Dr. Sumanta Basu, and Dr. Myung-Hee Lee on high-dimensional batch effect correction and feature selection for longitudinal multi-omic data. <br> <br>
 
 I finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me write an R package <a href="https://cran.r-project.org/package=iglu">'iglu'</a> and corresponding Shiny App that handles metric calculations and visualizations for data from Continuous Glucose Monitors (CGMs). 
 <br/> <br/> 
