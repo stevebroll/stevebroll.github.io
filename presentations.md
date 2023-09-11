@@ -18,4 +18,5 @@ title: Conferences and Seminars
 &nbsp;&nbsp;&nbsp;&nbsp; PROLONG: Penalized Regression On Longitudinal Multi-Omics Data with Network and Group Lasso Constraints
 
 **Cornell Celebration of Statistics and Data Science Poster Session** Ithaca, New York 
+
 &nbsp;&nbsp;&nbsp;&nbsp; PROLONG: Penalized Regression On Longitudinal Multi-Omics Data with Network and Group Lasso Constraints
