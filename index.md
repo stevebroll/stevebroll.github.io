@@ -19,4 +19,4 @@ subtitle: PhD Candidate at Cornell University
 
 I am a PhD Candidate in my fourth year at Cornell University. I work with Dr. Martin T. Wells, Dr. Sumanta Basu, and Dr. Myung-Hee Lee on high-dimensional batch effect correction and feature selection for longitudinal multi-omic data. <br> <br>
 
-I finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me write an R package [iglu](https://cran.r-project.org/package=iglu) and corresponding Shiny App that handles metric calculations and visualizations for data from Continuous Glucose Monitors (CGMs). 
+I finished my B.S. in Statistics at Texas A&M University in 2020. My primary advisor was Dr. Irina Gaynanova, who helped me write an R package `iglu` and a corresponding Shiny App that handles metric calculations and visualizations for data from Continuous Glucose Monitors (CGMs). 
