@@ -8,7 +8,7 @@ title:  Selected Materials
 ### Cornell Celebration of Statistics and Data Science Poster
 [Poster](assets/img/prolongposter.pdf) <br>
 
-## JSM 2023 Talk
+### JSM 2023 Talk
 [Presentation Slides](assets/img/PROLONG_jsm2023.pdf) <br>
 
 ### Extreme Value Distributions, Random Angles, Correlations, and the Beta Distribution
