@@ -2,6 +2,8 @@
 layout: page
 title: "Steve Broll"
 subtitle: PhD Candidate at Cornell University
+header-includes:
+        <meta name="google-site-verification" content="cozeOzDVBCVZGqS3Fn_3g-0qBJ6Wbhmb0dsIJ8GmS78" />
 ---
 <div class="container">
 <div class="row">
