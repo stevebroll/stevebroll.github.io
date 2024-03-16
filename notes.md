@@ -8,6 +8,9 @@ title:  Selected Materials
 ### Cornell Celebration of Statistics and Data Science Poster
 [Poster](assets/img/prolongposter.pdf) <br>
 
+### ENAR 2024 Talk
+[Presentation Slides](assets/img/ENAR2024_PROLONG.pdf) <br>
+
 ### JSM 2023 Talk
 [Presentation Slides](assets/img/PROLONG_jsm2023.pdf) <br>
 
