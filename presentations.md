@@ -3,20 +3,25 @@ layout: page
 title: Conferences and Seminars
 ---
 
+## Upcoming
+
+**JSM 2024 Contributed Paper** Portland, Oregon
+
 ## Past
 
-**ENAR 2023 Contributed Paper** Nashville, Tennessee
+ <ins>_PROLONG: Penalized Regression on Longitudinal Multi-Omics Data with Network and Group Lasso Constraints_ <ins>
 
-&nbsp;&nbsp;&nbsp;&nbsp;  PROLONG: Penalized Regression on Longitudinal Omics Data with Network and Group Lasso Constraints
+**ENAR 2024 Contributed Paper** Baltimore, Maryland
 
-**JSM 2023 Contributed Paper** Toronto, Ontario
-
-&nbsp;&nbsp;&nbsp;&nbsp; PROLONG: Penalized Regression On Longitudinal Multi-Omics Data with Network and Group Lasso Constraints
+**Cornell Celebration of Statistics and Data Science 2023 Poster Session** Ithaca, New York 
 
 **Cornell A-Exam** Ithaca, New York
 
-&nbsp;&nbsp;&nbsp;&nbsp; PROLONG: Penalized Regression On Longitudinal Multi-Omics Data with Network and Group Lasso Constraints
+**JSM 2023 Contributed Paper** Toronto, Ontario
 
-**Cornell Celebration of Statistics and Data Science Poster Session** Ithaca, New York 
+ <ins>_PROLONG: Penalized Regression on Longitudinal Omics Data with Network and Group Lasso Constraints_<ins>
 
-&nbsp;&nbsp;&nbsp;&nbsp; PROLONG: Penalized Regression On Longitudinal Multi-Omics Data with Network and Group Lasso Constraints
+**ENAR 2023 Contributed Paper** Nashville, Tennessee
+
+
+
