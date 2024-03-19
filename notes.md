@@ -20,4 +20,4 @@ title:  Selected Materials
 
 ### RStudio Theme
 
-[Downloadble Mint Chocolate RStudio Theme](assets/img/MintChoc.rstheme) <br>
+[Downloadable Mint Chocolate RStudio Theme](assets/img/MintChoc.rstheme) <br>
