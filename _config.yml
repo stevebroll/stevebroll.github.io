@@ -24,7 +24,9 @@ navbar-links:
   Publications: "publications"
 #  Links: "links"
   Presentations: "presentations"
-  Materials: "notes"
+  Materials:
+    - "notes"
+    - "presentations"
   Courses: "courses"
  
 ################
