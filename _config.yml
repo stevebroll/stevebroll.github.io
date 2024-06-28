@@ -22,13 +22,12 @@ author: Steve Broll
 navbar-links:
   Research: 
     - Interests: "researchinterests"
-    - Publications: "publications"
+    - Talks: "presentations"
+  Publications: "publications"
   Software: 
     - iGLU: "https://irinagain.github.io/iglu/"
     - PROLONG: "prolong"
-  Materials: 
-    - Presentations: "presentations"
-    - Notes: "notes"
+  Materials:  "notes"
   Education:
     - Courses: "courses"
   About me: "aboutme"
