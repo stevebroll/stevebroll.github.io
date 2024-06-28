@@ -24,7 +24,7 @@ navbar-links:
     - Interests: "researchinterests"
     - Publications: "publications"
   Software: 
-    - iGLU: [https://irinagain.github.io/iglu/]
+    - iGLU: "https://irinagain.github.io/iglu/"
     - PROLONG: "prolong"
   Materials: 
     - Presentations: "presentations"
