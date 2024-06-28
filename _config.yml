@@ -23,9 +23,14 @@ navbar-links:
 #  Research: "research"
   Publications: "publications"
 #  Links: "links"
-  Presentations: "presentations"
-  Materials: "notes","presentations"
-  Courses: "courses"
+  Software: 
+    - iGLU: 'iglu'
+    - PROLONG: 'prolong'
+  Materials: 
+    - Presentations: "presentations
+    - Notes: "notes"
+  Education:
+    - Courses: "courses"
  
 ################
 # --- Logo --- #
