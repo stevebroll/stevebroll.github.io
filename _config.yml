@@ -25,13 +25,13 @@ navbar-links:
     - Publications: "publications"
   Software: 
     - iGLU: [https://irinagain.github.io/iglu/]
-    - PROLONG: 'prolong'
+    - PROLONG: "prolong"
   Materials: 
     - Presentations: "presentations"
     - Notes: "notes"
   Education:
     - Courses: "courses"
-  About me: 'aboutme'
+  About me: "aboutme"
  
 ################
 # --- Logo --- #
