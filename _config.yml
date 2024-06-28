@@ -30,7 +30,7 @@ navbar-links:
   Materials:  "notes"
   Education:
     - Courses: "courses"
-    - T32: "aiprnt32"
+    - T32: "https://www.cpnh.cornell.edu/t32"
   About me: "aboutme"
  
 ################
