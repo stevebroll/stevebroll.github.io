@@ -32,9 +32,10 @@ CSCE 110 | Programming I
 CSCE 206 | Structured Programming in C  
 <br>
 
-#### Cornell University 2020-?
-<br>
+#### Cornell University 2020-2025
+
 STSCI 6520 | Computationally Intensive Statistical Methods  
+STSCI 6521 | Statistical Computing II
 STSCI 6610 | Spatial Data Analysis  
 STSCI 6730 | Mathematical Statistics I  
 STSCI 6740 | Mathematical Statistics II  
@@ -43,7 +44,9 @@ STSCI 6780 | Bayesian Statistics and Data Analysis
 STSCI 6940 | Time Series and Spatiotemporal Data Science  
 STSCI 7170 | Theory of Linear Models  
 STSCI 7180 | Generalized Linear Models  
-STSCI 7950 | Statistical Consulting  
 STSCI 7951 | Advanced Statistical Consulting  
+MATH  6710 | Probability Theory I
+BTRY  7950 | Statistical Consulting  
+NS    7030 | Seminar in Nutritional Sciences
 
 
