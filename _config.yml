@@ -20,17 +20,18 @@ author: Steve Broll
 ###############################################
 
 navbar-links:
-#  Research: "research"
-  Publications: "publications"
-#  Links: "links"
+  Research: 
+    - Interests: "researchinterests"
+    - Publications: "publications"
   Software: 
     - iGLU: 'iglu'
     - PROLONG: 'prolong'
   Materials: 
-    - Presentations: "presentations
+    - Presentations: "presentations"
     - Notes: "notes"
   Education:
     - Courses: "courses"
+  About me: 'aboutme'
  
 ################
 # --- Logo --- #
