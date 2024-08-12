@@ -5,9 +5,12 @@ title: Conferences and Seminars
 
 ## Upcoming
 
-**JSM 2024 Contributed Paper** Portland, Oregon
 
 ## Past
+
+ <ins>_PROLONG: Extensions to PROLONG_ <ins>
+
+**JSM 2024 Contributed Paper** Portland, Oregon
 
  <ins>_PROLONG: Penalized Regression on Longitudinal Multi-Omics Data with Network and Group Lasso Constraints_ <ins>
 
