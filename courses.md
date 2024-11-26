@@ -3,7 +3,6 @@ layout: page
 title: Coursework
 ---
 #### Texas A&M University 2016-2020
-Note: 6xx are Graduate Courses, and 489/689 are Special Topics Courses.
 
 STAT 211 | Principles of Statistics I  
 STAT 212 | Principles of Statistics II  
@@ -30,7 +29,6 @@ MATH 615 | Introduction to Classical Analysis (GR)
 MATH 689 | Deep Learning: Theory and Applications (GR)  
 CSCE 110 | Programming I  
 CSCE 206 | Structured Programming in C  
-<br>
 
 #### Cornell University 2020-2025
 
