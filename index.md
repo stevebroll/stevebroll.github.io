@@ -13,7 +13,7 @@ subtitle: PhD Candidate at Cornell University
  <strong>Email:</strong> <a href="mailto:sb2643@cornell.edu">sb2643@cornell.edu</a> <br>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/stevebroll/">https://www.linkedin.com/in/stevebroll/</a> <br>
 <strong>GitHub:</strong> <a href="https://github.com/stevebroll/">https://github.com/stevebroll</a> <br>
-<strong>(Outdated) CV:</strong><a href="assets/img/BROLL_CV.pdf"> Click Here </a>
+<strong>CV:</strong><a href="assets/img/BROLL_CV.pdf"> Click Here </a>
   </div>
 </div>
 </div>
