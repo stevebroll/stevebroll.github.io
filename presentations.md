@@ -3,16 +3,16 @@ layout: page
 title: Conferences and Seminars
 ---
 
-## Upcoming
 
+ <ins>_Variable Selection for High-Dimensional Longitudinal Omics Data with a Continuous or Misclassified Binary Outcome_<ins>
 
-## Past
+ **Cornell B-Exam** Ithaca, New York
 
- <ins>_PROLONG: Extensions to PROLONG_ <ins>
+ <ins>_PROLONG: Extensions to PROLONG_<ins>
 
 **JSM 2024 Contributed Paper** Portland, Oregon
 
- <ins>_PROLONG: Penalized Regression on Longitudinal Multi-Omics Data with Network and Group Lasso Constraints_ <ins>
+ <ins>_PROLONG: Penalized Regression on Longitudinal Multi-Omics Data with Network and Group Lasso Constraints_<ins>
 
 **ENAR 2024 Contributed Paper** Baltimore, Maryland
 
