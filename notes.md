@@ -2,6 +2,10 @@
 layout: page
 title:  Selected Materials
 ---
+
+### PhD Defense
+[Presentation Slides](assets/img/B_Exam.pdf) <br>
+
 ### PhD Candidacy Exam
 [Presentation Slides](assets/img/A_Exam.pdf) <br>
 
