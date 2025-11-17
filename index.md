@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Steve Broll"
-subtitle: PhD Graduate from Cornell University
+subtitle: Postdoctoral Associate at Cornell University
 ---
 <div class="container">
 <div class="row">
