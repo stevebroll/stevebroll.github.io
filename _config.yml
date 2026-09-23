@@ -24,8 +24,10 @@ navbar-links:
     - Interests: "researchinterests"
     - Talks: "presentations"
     - Publications: "publications"
-  Author's home: "https://deanattali.com"
-
+  Software:
+    - iGLU: "https://irinagain.github.io/iglu/"
+    - PROLONG: "https://stevebroll.github.io/prolong/"
+    - AutotuneGG: "https://stevebroll.github.io/autotunegg/"
 ################
 # --- Logo --- #
 ################
