@@ -1,1 +1,1 @@
-My personal website built using [beautifull-kekyl](https://beautifuljekyll.com/)
+My personal website built using [beautifull-jekyll](https://beautifuljekyll.com/)
