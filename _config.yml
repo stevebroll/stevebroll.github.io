@@ -21,9 +21,9 @@ author: Steve Broll
 
 navbar-links:
   Research: 
-    - Interests: "researchinterests"
-    - Talks: "presentations"
     - Publications: "publications"
+    - Talks: "presentations"
+    - Selected Materials: "notes"
   Software:
     - iGLU: "https://irinagain.github.io/iglu/"
     - PROLONG: "https://stevebroll.github.io/prolong/"
