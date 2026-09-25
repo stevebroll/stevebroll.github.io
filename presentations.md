@@ -3,6 +3,11 @@ layout: page
 title: Conferences and Seminars
 ---
 
+ <ins>_Variable Selection and Inference for High-Dimensional Longitudinal Omics with Heterogeneous Groups_<ins?
+
+**JSM 2026 Contributed Paper** Boston, Massachusetts
+
+**ENAR 2026 Contributed Paper** Indianapolis, Indiana
 
  <ins>_Variable Selection for High-Dimensional Longitudinal Omics Data with a Continuous or Misclassified Binary Outcome_<ins>
 
