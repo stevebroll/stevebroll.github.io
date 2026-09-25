@@ -21,7 +21,7 @@ author: Steve Broll
 
 navbar-links:
   Research: 
-    - Publications: "publications"
+    - Papers: "publications"
     - Talks: "presentations"
     - Selected Materials: "notes"
   Software:
