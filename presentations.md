@@ -3,7 +3,7 @@ layout: page
 title: Conferences and Seminars
 ---
 
- <ins>_Variable Selection and Inference for High-Dimensional Longitudinal Omics with Heterogeneous Groups_<ins?
+ <ins>_Variable Selection and Inference for High-Dimensional Longitudinal Omics with Heterogeneous Groups_<ins>
 
 **JSM 2026 Contributed Paper** Boston, Massachusetts
 
